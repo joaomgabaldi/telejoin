@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# credenciais e estado
+.env
+!.env.example
+*.session
+*.session-*
+telejoin.estado.json
+# links de convite privados são credenciais de acesso
+links.txt
