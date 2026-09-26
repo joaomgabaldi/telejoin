@@ -1,5 +1,7 @@
 # telejoin
 
+[![Licença: MIT](https://img.shields.io/github/license/joaomgabaldi/telejoin)](LICENSE)
+
 Entra nos grupos e canais de uma lista de links do Telegram, com uma conta de usuário (Telethon/MTProto).
 
 ## Links aceitos (um por linha; `#` comenta)
